@@ -36,13 +36,8 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 ---
 
-![Bahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiullahbahadur=merko)
+![Bahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiullahbahadur)
 
----
-
-### Most used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahbahadur=ejs&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [github]: https://github.com/samiullahbahadur
 [twitter]: https://twitter.com/@Samiull88496331
