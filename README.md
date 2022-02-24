@@ -14,8 +14,7 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 [<img align="left" alt="netman5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="netman5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[https://github.com/samiullahbahadur />][github]
-
+ 
 <br>
 
 ### Languages and Tools:
@@ -40,7 +39,7 @@ A Full time student at Microverse, learning Full Stack Web Development.
 ## My status 
 
 ![Bahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiullahbahadur)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahbahadur&langs_count=8)
 
 
 
