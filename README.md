@@ -12,9 +12,9 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 ### Connect with me:
 
-[<img align="left" alt="netman5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="netman5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="netman5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- 
+[<img align="left" alt="netman5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 <br>
 
 ### Languages and Tools:
@@ -36,11 +36,13 @@ A Full time student at Microverse, learning Full Stack Web Development.
   <img src="https://profile-counter.glitch.me/samiullahbahadur/count.svg" />
 </p>
 
-## My status 
+### My GitHub Stats
 
-![Bahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiullahbahadur)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahbahadur&langs_count=8)
-
-
+![Samiullah Bahadur's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiullahbahadur&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahbahadur&langs_count=3)
 
 
+
+[Github]:https://github.com/samiullahbahadur
+[twitter]:https://twitter.com/Samiull88496331
+[linkedin]:https://www.linkedin.com/in/samiullah-bahadur-a1b053149/
