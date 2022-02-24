@@ -29,13 +29,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 <br>
 
 
-
 ## Visitors counts
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/samiullahbahadur/count.svg" />
+  <img src="https://profile-counter.glitch.me/sediqullahbadakhsh/count.svg" />
 </p>
-
 ### My GitHub Stats
 
 ![Samiullah Bahadur's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiullahbahadur&theme=merko)
