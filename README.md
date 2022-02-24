@@ -32,14 +32,23 @@ A Full time student at Microverse, learning Full Stack Web Development.
 <br>
 <br>
 
-### My GitHub Stats
 
----
+
+## Visitors counts
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sediqullahbadakhsh/count.svg" />
+</p>
+
+## My status 
 
 ![Bahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiullahbahadur)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahbahadur&langs_count=8)
 
 [github]: https://github.com/samiullahbahadur
 [twitter]: https://twitter.com/@Samiull88496331
 [linkedin]: https://www.linkedin.com/in/samiullah-bahadur-a1b053149/
+
+
 
