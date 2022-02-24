@@ -12,12 +12,15 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 ### Connect with me:
 
+
 [<img align="left" alt="netman5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="netman5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="netman5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 <br>
 
 ### Languages and Tools:
+---
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -30,15 +33,20 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 
 ## Visitors counts
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sediqullahbadakhsh/count.svg" />
 </p>
+
+
+
 ### My GitHub Stats
+
+---
 
 ![Samiullah Bahadur's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiullahbahadur&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahbahadur&langs_count=3)
-
 
 
 [Github]:https://github.com/samiullahbahadur
