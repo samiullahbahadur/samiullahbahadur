@@ -10,9 +10,6 @@ A Full time student at Microverse, learning Full Stack Web Development.
  - 😄 Pronouns: He/His
  - 🚂2022 Goals: Contribute to international software development projects via remote collaboration.
 
-
----
-
 ### Connect with me:
 
 [<img align="left" alt="netman5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -37,7 +34,7 @@ A Full time student at Microverse, learning Full Stack Web Development.
 ## Visitors counts
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sediqullahbadakhsh/count.svg" />
+  <img src="https://profile-counter.glitch.me/samiullahbahadur/count.svg" />
 </p>
 
 ## My status 
@@ -46,9 +43,6 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahbahadur&langs_count=8)
 
-[github]: https://github.com/samiullahbahadur
-[twitter]: https://twitter.com/@Samiull88496331
-[linkedin]: https://www.linkedin.com/in/samiullah-bahadur-a1b053149/
 
 
 
