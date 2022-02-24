@@ -12,8 +12,8 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 ### Connect with me:
 
-[https://twitter.com/@Samiull88496331 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[https://linkedin.com/in/samiullah-bahadur-a1b053149/5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="netman5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" =============/>][twitter]
+[<img align="left" alt="netman5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  
 <br>
 
