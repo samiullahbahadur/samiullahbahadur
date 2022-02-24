@@ -14,7 +14,7 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 [<img align="left" alt="netman5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="netman5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="netman5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="netman5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][https://github.com/samiullahbahadur]
 
 <br>
 
@@ -41,7 +41,6 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 ![Bahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiullahbahadur)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahbahadur&langs_count=8)
 
 
 
