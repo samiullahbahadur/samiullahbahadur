@@ -1,6 +1,6 @@
 ### Hi there, I'm Samiullah Bahadur 👋
 
-A Full time student at Microverse, learning  Full-stack Web Development.
+    Full-stack Web Development.
 
  - 🔭 I’m currently working on improving my crafts in Web Development
  - 🌱 I’m looking to collaborate with other content creators
